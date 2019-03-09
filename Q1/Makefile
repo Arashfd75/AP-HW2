@@ -1,6 +1,6 @@
 CXX = g++
-CXXFLAGS = -std=c++14 -Wall -c
-LXXFLAGS = -std=c++14
+CXXFLAGS = -std=c++17 -Wall -c
+LXXFLAGS = -std=c++17
 OBJECTS = main.o Map.o
 TARGET = main
 
